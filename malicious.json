@@ -11,5 +11,6 @@
     "nomicfdn.hardhat-solidity",
     "juan-blanco.solidity",
     "EchelonStudios.solidity-language-support",
-    "magic-stack.MagicPython"
+    "magic-stack.MagicPython",
+    "NomcFoundation.hardhat-solidity"
 ]
