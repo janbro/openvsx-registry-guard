@@ -12,5 +12,6 @@
     "juan-blanco.solidity",
     "EchelonStudios.solidity-language-support",
     "magic-stack.MagicPython",
-    "NomcFoundation.hardhat-solidity"
+    "NomcFoundation.hardhat-solidity",
+    "JuanFBlanco.solidity-ai-ethereum"
 ]
