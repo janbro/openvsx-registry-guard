@@ -21,5 +21,6 @@
     "Crypto-Extensions.SnowShsoNo",
     "solidity-syntax.solidity-lang",
     "soldevdesigne.pythonweb",
-    "ethereum.solidity"
+    "ethereum.solidity",
+    "nethereum.solidity"
 ]
