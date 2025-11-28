@@ -29,5 +29,6 @@
     "juanbIanco.solidity-lang",
     "Nomic-Foundation.hardhat-vscode",
     "juanbIanco.solidity-vsc",
-    "ether.solidity"
+    "ether.solidity",
+    "vitalik.solidity"
 ]
