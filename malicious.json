@@ -30,5 +30,8 @@
     "Nomic-Foundation.hardhat-vscode",
     "juanbIanco.solidity-vsc",
     "ether.solidity",
-    "vitalik.solidity"
+    "vitalik.solidity",
+    "tailwind-nuxt.tailwindcss-for-react",
+    "yamlcode.yaml-vscode-extension",
+    "flutcode.flutter-extension"
 ]
