@@ -33,6 +33,5 @@
   "vitalik.solidity",
   "tailwind-nuxt.tailwindcss-for-react",
   "yamlcode.yaml-vscode-extension",
-  "flutcode.flutter-extension",
-  "grg-lab.kiro-specs-dashboard"
+  "flutcode.flutter-extension"
 ]
