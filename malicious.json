@@ -73,5 +73,6 @@
   "vadim-studio-cn.extension-lldb-pro-vscode",
   "tima-web-wang.shell-check-utils",
   "redcapcollective.vscode-quarkus-elite-suite",
-  "devmidu-studio.svg-better-extension"
+  "devmidu-studio.svg-better-extension",
+  "ll-service-vm-studio.vscode-clangd-cross-platform"
 ]
