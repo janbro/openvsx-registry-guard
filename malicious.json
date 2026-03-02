@@ -80,5 +80,6 @@
   "coneditorfig.config-editor-extension",
   "errlenscre.error-lens-finder-ex",
   "markvalid.vscode-mdvalidator-extension",
-  "treedotree.tree-do-todoextension"
+  "treedotree.tree-do-todoextension",
+  "toowespace.worksets-extension"
 ]
