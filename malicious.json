@@ -284,5 +284,9 @@
   "tokcodes.import-cost-extension",
   "federicanc.dotenv-syntax-highlighting",
   "blockstoks.easily-gitignore-manage",
-  "pessa07tm.my-js-ts-auto-commands"
+  "pessa07tm.my-js-ts-auto-commands",
+  "juanblancosol.solidity-vscode-ext",
+  "juan-franblanco.solidity-etherum",
+  "ethereum-foundation.solidity-ethe",
+  "juanfran-blanco.solidity-etheru"
 ]
